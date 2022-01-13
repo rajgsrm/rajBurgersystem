@@ -1,0 +1,5 @@
+  1.  Cheese burger                 50rs        
+  2.  Veggie burger                 60rs        
+  3.  paneer burger                 80rs     
+  4.  corn cheese burger            80rs              
+  5.  nachos bruger                 80rs   

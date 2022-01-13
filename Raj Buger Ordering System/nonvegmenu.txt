@@ -1,0 +1,5 @@
+  1.  chicken burger                    120rs
+  2.  chicken cheese burger             140rs    
+  3.  chicken double cheese burger      160rs          
+  4.  chicken tikka burger              180rs    
+  5.  Chicken peri peri burger          200rs
